@@ -3,7 +3,7 @@
 ## Overview of Analysis
 
 ### Resources
-- Data Source: LoanStats_2019q1.csv (https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/LoanStats_2019Q1.csv)
+- Data Source: [LoanStats_2019q1.csv](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/LoanStats_2019Q1.csv)
 
 - Software:
  - Python 3.6.1
