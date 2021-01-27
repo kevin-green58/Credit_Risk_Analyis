@@ -36,9 +36,9 @@
 ### Undersampling
 
 - #### Balanced Accuracy Score
-![Undersampling_balanced_accuracy_score]()
+![Undersampling_balanced_accuracy_score](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/Undersampling_balanced_accuracy_score.png)
 - #### Imbalanced Classification Report
-![Undersampling_classification_report]()
+![Undersampling_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/Undersampling_classification_report.png)
 
 ### SMOTEENN (Combined Over and Undersampling)
 
