@@ -8,13 +8,13 @@
 - Software:
  - Python 3.6.1
  - Jupyter Notebook
-- Libraries
-  - Numpy
-  - Pandas
-  - Pathlib
-   - Path
- - Collections
-  - Counter  
+   - Libraries
+     - Numpy
+     - Pandas
+     - Pathlib
+     - Path
+  - Collections
+    - Counter  
  
 
 ## Results of Analysis
