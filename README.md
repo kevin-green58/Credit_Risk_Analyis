@@ -22,31 +22,52 @@
 ### ROS (Random Oversampling)
  
 - #### Balanced Accuracy Score
+![ROS_Balanced_Accuracy_score](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/ROS_Balanced_Accuracy_Score.png)
 - #### Imbalanced Classification Report
+![ROS_imbalanced_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/ROS_classification_report.png)
  
 ### SMOTE (Synthetic Minority Oversampling Technique)
 
 - #### Balanced Accuracy Score
+![SMOTE_Balanced_Accuracy_score](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/SMOTE_Balanced_Accuracy_Report.png)
 - #### Imbalanced Classification Report
+![SMOTE_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/SMOTE_classification_report.png)
+- Balanced Acuracy Score: 65%
+- Precision Score:
+  - High Risk:
+  - Low_Risk:
+  - Average: 
+- Recall Score: 
+  - High Risk:
+  - Low Risk:
+  - Average: 
 
 ### Undersampling
 
 - #### Balanced Accuracy Score
+![Undersampling_balanced_accuracy_score](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/Undersampling_balanced_accuracy_score.png)
 - #### Imbalanced Classification Report
+![Undersampling_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/Undersampling_classification_report.png)
 
 ### SMOTEENN (Combined Over and Undersampling)
 
 - #### Balanced Accuracy Score
+![SMOTEENN_balanced_accuracy_score](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/SMOTEENN_balanced_accuracy_report.png)
 - #### Imbalanced Classification Report
+![SMOTEENN_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/SMOTEENN_classification_report.png)
 
 ### Balanced Random Forest Classifier
 
 - #### Balanced Accuracy Score
+![BRFC_balanced_accuracy_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/BRFC_balanced_accuracy_report.png)
 - #### Imbalanced Classification Report
+![BRFC_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/BRFC_classification_Report.png)
 
 ### Easy Ensemble Classifier
 
 - #### Balanced Accuracy Score
+![EEC_balanced_accuracy_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/EEC_balanced_accuracy_report.png)
 - #### Imbalanced Classification Report
+![EEC_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/EEC_classification_report.png)
 
 ## Summary
