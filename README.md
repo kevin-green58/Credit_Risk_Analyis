@@ -32,6 +32,15 @@
 ![SMOTE_Balanced_Accuracy_score](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/SMOTE_Balanced_Accuracy_Report.png)
 - #### Imbalanced Classification Report
 ![SMOTE_classification_report](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/SMOTE_classification_report.png)
+- Balanced Acuracy Score: 65%
+- Precision Score:
+  - High Risk:
+  - Low_Risk:
+  - Average: 
+- Recall Score: 
+  - High Risk:
+  - Low Risk:
+  - Average: 
 
 ### Undersampling
 
