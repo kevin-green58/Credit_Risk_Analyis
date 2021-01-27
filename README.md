@@ -1,6 +1,14 @@
 # Credit_Risk_Analyis
 
 ## Overview of Analysis
+  Credit risk is an inherently unbalanced classification problem due to good loans outnumbering risky loans.  In order to train and evaluate the models with unbalanced classes, six different machine learning methods were used:
+  - ROS
+  - SMOTE
+  - Undersampling
+  - SMOTEENN
+  - Balanced Random Forest Classifier
+  - Easy Ensemble Classifer
+ 
 
 ### Resources
 - Data Source: [LoanStats_2019q1.csv](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/LoanStats_2019Q1.csv)
@@ -13,6 +21,9 @@
      - Pandas
      - Pathlib
      - Path
+     - scipy
+     - scikit-learn
+     - imbalanced-learn
   - Collections
     - Counter  
  
@@ -64,3 +75,8 @@
 ## Summary
 
 ![Summary_chart](https://github.com/stephenanayashilliard/Credit_Risk_Analyis/blob/main/Resources/Summary_chart.png)
+
+
+
+- ### Recommendation
+It is recommended that the Balanced Random Forest Classifier be used to assist in machine learning due to it having the the best Balanced Accuracy Score of 78% and the best overall Average Recall of 91%.
